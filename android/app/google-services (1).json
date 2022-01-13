@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813711038608",
+    "project_id": "demotestapp-fa7c9",
+    "storage_bucket": "demotestapp-fa7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813711038608:android:9cbfd01077c27901c2e015",
+        "android_client_info": {
+          "package_name": "com.example.demoappfoodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813711038608-8g2eelrujisogh94vd08vl6l0vmokbcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSN0_hMUH_h49SqiChpOMQG1nG336i-Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813711038608-8g2eelrujisogh94vd08vl6l0vmokbcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
